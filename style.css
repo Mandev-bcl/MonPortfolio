@@ -7,3 +7,13 @@ h1{
     text-align: center;
     color: black;
 }
+
+a{
+    text-decoration: none;
+    transition: all .5s;
+}
+
+a:hover{
+    color: orangered;
+    transition: all .5s;
+}
